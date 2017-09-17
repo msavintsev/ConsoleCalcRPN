@@ -1,0 +1,6 @@
+D:\geekbrains\c#2\7\ConsoleCalcAdv\ConsoleCalcAdv\bin\Debug\ConsoleCalcAdv.exe.config
+D:\geekbrains\c#2\7\ConsoleCalcAdv\ConsoleCalcAdv\obj\Debug\ConsoleCalcAdv.csprojResolveAssemblyReference.cache
+D:\geekbrains\c#2\7\ConsoleCalcAdv\ConsoleCalcAdv\bin\Debug\ConsoleCalcAdv.exe
+D:\geekbrains\c#2\7\ConsoleCalcAdv\ConsoleCalcAdv\bin\Debug\ConsoleCalcAdv.pdb
+D:\geekbrains\c#2\7\ConsoleCalcAdv\ConsoleCalcAdv\obj\Debug\ConsoleCalcAdv.exe
+D:\geekbrains\c#2\7\ConsoleCalcAdv\ConsoleCalcAdv\obj\Debug\ConsoleCalcAdv.pdb
